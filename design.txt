@@ -1,0 +1,35 @@
+    conn = MySQLdb.connect("hospital19.mysql.pythonanywhere-services.com","Hos1Pita9l","HorseSabuniAluoch","BIZBIZ$p" )
+
+
+Hospital19
+
+- families gathered indoors
+- mental health cases and gender-based violence steadily increased
+- Hospitals similarly became flooded,
+- as the number of COVID cases increased. 
+
+
+
+Silence
+drinking
+bhang
+
+emerging issues:
+
+= age of patient
+= neuro-developmental and other childhood psychiatric psychosocial disorders
+= clinic run time
+= department
+= adolescent (Youth) friendly psychiatric and psychosocial services
+= service charge
+= psychotherapy clinic
+= sexual and gender based violence psychological and social services
+= individual and family therapy
+= group therapy
+= social services - provided by medical social worker
+= rehabilitative occupational therapy
+= general psychiatry services
+= clinical psychology psychology and counseling psychology student on attachment
+
+
+Links:
